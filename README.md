@@ -25,6 +25,14 @@
 </div>
  
  <br>
+
+ <div>
+  <p>
+   Se você está procurando um desenvolvedor front-end comprometido com a excelência e capaz de criar interfaces
+   web inovadoras, estou pronto para colaborar em projetos desafiadores. 
+   Vamos construir experiências digitais incríveis juntos! Entre em contato comigo para saber mais.
+  </p>
+ </div>
  
   ### Abaixo meus contatos!
  
