@@ -2,8 +2,8 @@
 
  <div>
   <p>
-   Sou um desenvolvedor front-end altamente qualificado e apaixonado por transformar designs criativos 
-   em experiências interativas e envolventes na web. Com habilidades técnicas avançadas e um olhar atento
+   Sou um desenvolvedor front-end apaixonado por transformar designs criativos em experiências interativas
+   e envolventes na web. Com habilidades técnicas avançadas e um olhar atento
    aos detalhes, tenho uma sólida compreensão das melhores práticas de desenvolvimento e das mais recentes
    tecnologias front-end. Trabalho de forma colaborativa com equipes multidisciplinares para entregar soluções
    de alta qualidade, otimizadas para performance e responsivas em diferentes dispositivos. Sou movido por 
