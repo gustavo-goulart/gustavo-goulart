@@ -3,12 +3,10 @@
  <div>
   <p>
    Sou um desenvolvedor front-end apaixonado por transformar designs criativos em experiências interativas
-   e envolventes na web. Com habilidades técnicas avançadas e um olhar atento
-   aos detalhes, tenho uma sólida compreensão das melhores práticas de desenvolvimento e das mais recentes
-   tecnologias front-end. Trabalho de forma colaborativa com equipes multidisciplinares para entregar soluções
-   de alta qualidade, otimizadas para performance e responsivas em diferentes dispositivos. Sou movido por 
-   desafios e estou sempre em busca de aprimorar minhas habilidades para proporcionar experiências excepcionais
-   aos usuários.
+   e envolventes na web. Com habilidades técnicas e um olhar atento aos detalhes, tenho uma sólida compreensão das melhores práticas de  
+   desenvolvimento e das mais recentes tecnologias front-end. Trabalho de forma colaborativa com equipes multidisciplinares para entregar 
+   soluções de alta qualidade, otimizadas para performance e responsivas em diferentes dispositivos. Sou movido por desafios e estou 
+   sempre em busca de aprimorar minhas habilidades para proporcionar experiências excepcionais aos usuários.
   </p>
  </div>
 
@@ -16,7 +14,6 @@
    <a href="https://github.com/gustavo-goulart">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-goulart&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-goulart&layout=compact&langs_count=6&theme=tokyonight"/>
-
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
